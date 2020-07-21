@@ -1,4 +1,4 @@
-# webengine-gui-3
+# diff-editor
 
 ## Project setup
 ```
